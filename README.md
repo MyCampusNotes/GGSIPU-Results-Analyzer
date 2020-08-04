@@ -395,3 +395,5 @@ Analyze your GGSIPU results. An interactive web tool to analyze your section, co
  
 </table>
   
+<h1>An error or issue found in results ?</h1>
+Please raise an issue request, I'll try my best to resolve the issue within a reasonable timeframe.
