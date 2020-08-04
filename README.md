@@ -207,5 +207,36 @@ Analyze your GGSIPU results.
     </td>
   </tr>
   
+  <tr>
+    <td rowspan=3>
+      Your University Rank Analysis
+    </td>
+    <td>
+     Analyze your university rank
+    </td>
+    <td>
+        Get your university rank for your semester.
+    </td>
+    <td rowspan=3>
+      <a href="https://mycampusnotes.com/apps/ggsipu/your-university-rank-analysis">GGSIPU University Rank Analysis Link</a> 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Your semester average vs university rank
+    </td>
+    <td>
+      A graphical representation of your semester average marks vs your university rank
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Your detailed marks analysis across all semesters
+    </td>
+    <td>
+        Get overall semester wise performance with clickable module to detailed analysis for your semester.
+    </td>
+  </tr>
+  
 </table>
   
