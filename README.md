@@ -160,5 +160,52 @@ Analyze your GGSIPU results.
     </td>
   </tr>
   
+  
+   <tr>
+    <td rowspan=4>
+      Your College Rank Analysis
+    </td>
+    <td>
+     Analyze your college rank
+    </td>
+    <td>
+        Get your college wise section rank.
+    </td>
+    <td rowspan=4>
+      <a href="https://mycampusnotes.com/apps/ggsipu/your-college-rank-analysis">GGSIPU College Rank Analysis Link</a> 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Your semester average vs college rank
+    </td>
+    <td>
+      A graphical representation of your semester average marks vs your college rank
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Your college rank list
+    </td>
+    <td>
+      <ul>
+        <li>
+          Get your overall section rank (based on your average marks across all semesters)
+        </li>
+        <li>
+          Get your semester wise college rank
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Your detailed marks analysis across all semesters
+    </td>
+    <td>
+        Get overall semester wise performance with clickable module to detailed analysis for your semester.
+    </td>
+  </tr>
+  
 </table>
   
