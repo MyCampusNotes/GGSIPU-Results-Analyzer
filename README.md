@@ -1,6 +1,13 @@
 # GGSIPU Results Analyzer
 Analyze your GGSIPU results. An interactive web tool to analyze your section, college and university rank along with your semester wise performance in college.
 
+```diff
+- Please note that these are not the official IPU results 
+- and are scraped from the pdfs generated on official IPU site. 
+- This website is intended to use for information purpose only. 
+- While we do our best effort to update the results, please refer to the
+- official site for the results.
+```
 <h1>Current server status updates</h1>
 
 <table>
