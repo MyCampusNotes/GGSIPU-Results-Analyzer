@@ -238,5 +238,35 @@ Analyze your GGSIPU results.
     </td>
   </tr>
   
+  <tr>
+    <td >
+      Search by batch and college
+    </td>
+    <td>
+     Interactive UI to search results by batch and college
+    </td>
+    <td>
+      Get your college search details by batch.
+    </td>
+    <td>
+      <a href="https://mycampusnotes.com/apps/ggsipu/search/batch-and-college">Search by batch and college</a> 
+    </td>
+  </tr>
+  
+  <tr>
+    <td >
+      Search by enrollment number
+    </td>
+    <td>
+     Search results by enrollment number
+    </td>
+    <td>
+      Get your search result by enrollment number. Please note that the enrollment number should be in format ########### (11 numerical digits)
+    </td>
+    <td>
+      <a href="https://mycampusnotes.com/apps/ggsipu/search/enrollment-number">Search by enrollment number</a> 
+    </td>
+  </tr>
+ 
 </table>
   
