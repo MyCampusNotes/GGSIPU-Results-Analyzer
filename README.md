@@ -1,6 +1,131 @@
-# GGSIPU-Results-Analyzer
-Analyze your GGSIPU results.
+# GGSIPU Results Analyzer
+Analyze your GGSIPU results. An interactive web tool to analyze your section, college and university rank along with your semester wise performance in college.
 
+<h1>Current server status updates</h1>
+
+<table>
+<tr>
+  <th>
+    Server
+  </th>
+  <th>
+    Server Status
+  </th>
+  <th>
+    Update time
+  </th>
+</tr>
+<tr>
+  <td>
+    METADATA-PR
+  </td>
+  <td>
+    Updated till 2019 July Results
+  </td>
+  <td>
+    August 2020
+  </td>
+</tr>
+<tr>
+  <td>
+     BATCH-2011-PR
+  </td>
+  <td>
+    Regular and Reappear results updated till 2019 July Results
+  </td>
+   <td>
+    August 2020
+  </td>
+</tr>
+  <tr>
+  <td>
+     BATCH-2012-PR
+  </td>
+  <td>
+    Regular and Reappear results updated till 2019 July Results
+  </td>
+   <td>
+    August 2020
+  </td>
+</tr>
+  <tr>
+  <td>
+     BATCH-2013-PR
+  </td>
+  <td>
+    Regular and Reappear results updated till 2019 July Results
+  </td>
+   <td>
+    August 2020
+  </td>
+</tr>
+  <tr>
+  <td>
+     BATCH-2014-PR
+  </td>
+  <td>
+    Regular and Reappear results updated till 2019 July Results
+  </td>
+   <td>
+    August 2020
+  </td>
+</tr>
+  <tr>
+  <td>
+     BATCH-2015-PR
+  </td>
+  <td>
+    Regular and Reappear results updated till 2019 July Results
+  </td>
+   <td>
+    August 2020
+  </td>
+</tr>
+  <tr>
+  <td>
+     BATCH-2016-PR
+  </td>
+  <td>
+    Regular and Reappear results updated till 2019 July Results
+  </td>
+   <td>
+    August 2020
+  </td>
+</tr>
+  <tr>
+  <td>
+     BATCH-2017-PR
+  </td>
+  <td>
+    Regular and Reappear results updated till 2019 July Results
+  </td>
+   <td>
+    August 2020
+  </td>
+</tr>
+  <tr>
+  <td>
+     BATCH-2018-PR
+  </td>
+  <td>
+    Regular and Reappear results updated till 2019 July Results
+  </td>
+   <td>
+    August 2020
+  </td>
+</tr>
+  <tr>
+  <td>
+     BATCH-2019-PR
+  </td>
+  <td>
+    Regular results updated till 2019 July Results
+  </td>
+   <td>
+    August 2020
+  </td>
+</tr>
+</table>
 
 <h1>Current List Of Features</h1>
 <table>
