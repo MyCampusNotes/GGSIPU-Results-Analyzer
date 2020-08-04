@@ -19,7 +19,7 @@ Analyze your GGSIPU results.
     </th>
   </tr>
   <tr>
-    <td rowspan=4>
+    <td rowspan=5>
       Your Dashboard
     </td>
     <td>
@@ -35,7 +35,7 @@ Analyze your GGSIPU results.
         <li>Get total number of active backlogs.</li>
       </ul>
     </td>
-    <td rowspan=4>
+    <td rowspan=5>
       <a href="https://mycampusnotes.com/apps/ggsipu/dashboard">GGSIPU Dashboard Link</a> 
     </td>
   </tr>
