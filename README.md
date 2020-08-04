@@ -71,5 +71,46 @@ Analyze your GGSIPU results.
       A graphical representation of your performance vs your college average performance
     </td>
   </tr>
+  <tr>
+    <td rowspan=5>
+      Your Marks Analysis
+    </td>
+    <td>
+     Analyze your GGSIPU marks
+    </td>
+    <td>
+      <ul>
+        <li>Get your best performing subject.</li>
+        <li>Get your worst performing subject.</li>
+      </ul>
+    </td>
+    <td rowspan=5>
+      <a href="https://mycampusnotes.com/apps/ggsipu/dashboard">GGSIPU Dashboard Link</a> 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Your marks trend for all semesters
+    </td>
+    <td>
+      A graphical representation of marks performance vs class average performance
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Your overall marks average vs college average marks
+    </td>
+    <td>
+      Get your average subject marks across all semesters vs college average marks across all semesters
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Your detailed marks analysis across all semesters
+    </td>
+    <td>
+        Get overall semester wise performance with clickable module to detailed analysis for your semester.
+    </td>
+  </tr>
 </table>
   
