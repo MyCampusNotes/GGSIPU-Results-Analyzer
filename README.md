@@ -85,7 +85,7 @@ Analyze your GGSIPU results.
       </ul>
     </td>
     <td rowspan=5>
-      <a href="https://mycampusnotes.com/apps/ggsipu/dashboard">GGSIPU Dashboard Link</a> 
+      <a href="https://mycampusnotes.com/apps/ggsipu/your-marks-analysis">GGSIPU Dashboard Link</a> 
     </td>
   </tr>
   <tr>
