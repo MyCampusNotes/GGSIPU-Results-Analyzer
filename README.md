@@ -72,7 +72,7 @@ Analyze your GGSIPU results.
     </td>
   </tr>
   <tr>
-    <td rowspan=5>
+    <td rowspan=4>
       Your Marks Analysis
     </td>
     <td>
@@ -84,7 +84,7 @@ Analyze your GGSIPU results.
         <li>Get your worst performing subject.</li>
       </ul>
     </td>
-    <td rowspan=5>
+    <td rowspan=4>
       <a href="https://mycampusnotes.com/apps/ggsipu/your-marks-analysis">GGSIPU Marks Analysis Link</a> 
     </td>
   </tr>
@@ -112,5 +112,53 @@ Analyze your GGSIPU results.
         Get overall semester wise performance with clickable module to detailed analysis for your semester.
     </td>
   </tr>
+  
+  
+   <tr>
+    <td rowspan=4>
+      Your Section Rank Analysis
+    </td>
+    <td>
+     Analyze your section (class) rank
+    </td>
+    <td>
+        Get your semester wise section rank.
+    </td>
+    <td rowspan=4>
+      <a href="https://mycampusnotes.com/apps/ggsipu/your-section-rank-analysis">GGSIPU Section Rank Analysis Link</a> 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Your semester average vs section rank
+    </td>
+    <td>
+      A graphical representation of your semester average marks vs your section rank
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Your section rank list
+    </td>
+    <td>
+      <ul>
+        <li>
+          Get your overall section rank (based on your average marks across all semesters)
+        </li>
+        <li>
+          Get your semester wise section rank
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Your detailed marks analysis across all semesters
+    </td>
+    <td>
+        Get overall semester wise performance with clickable module to detailed analysis for your semester.
+    </td>
+  </tr>
+  
 </table>
   
